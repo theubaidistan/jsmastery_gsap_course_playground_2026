@@ -4,7 +4,17 @@
 
 > Master modern web animations with GreenSock Animation Platform (GSAP)
 
+<div align="center">
+
+![GSAP Course Banner](https://javascript-mastery.s3.amazonaws.com/assets/content/courses/1746581370764/thumbnail/GSAP%20Pro%3A%20Animate%20Like%20a%20Boss%20%F0%9F%9A%80.png)
+
+</div>
+
 [![GSAP Version](https://img.shields.io/badge/GSAP-3.12+-brightgreen.svg)](https://greensock.com/gsap/)
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Course Level](https://img.shields.io/badge/level-beginner%20to%20advanced-orange.svg)]()
 
@@ -316,6 +326,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **[Start Learning](https://gsapcourse.com/start)** • **[View Demo](https://demo.gsapcourse.com)** • **[Get Certificate](https://gsapcourse.com/certificate)**
 
+Made with ❤️ by the GSAP Course Team
+
+© 2026 GSAP Course. All rights reserved.
+
+</div>
 Made with ❤️ by the GSAP Course Team
 
 © 2026 GSAP Course. All rights reserved.
